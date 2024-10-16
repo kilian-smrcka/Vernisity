@@ -20,6 +20,5 @@ h1 {
 h2 {
   font-family: "Roboto", sans-serif;
   text-align: center;
-  text-shadow: black 1cm;
 }
 </style>
