@@ -22,6 +22,12 @@ export default {
 </script>
 
 <style>
+#app {
+  background-image: url("/media/bg.png"); /* Path to your background image */
+  background-size: cover; /* Ensures the background covers the whole area */
+  height: 100vh; /* Full viewport height */
+}
+
 .flashing-text {
   animation: flash 3s infinite;
 }

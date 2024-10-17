@@ -229,7 +229,6 @@ body {
   font-size: 16px;
   line-height: 20px;
   color: #ffff00;
-  background-color: #0000ff;
 }
 
 a {
@@ -6654,11 +6653,6 @@ blink {
   -ms-animation: blink 1s linear infinite;
   -o-animation: blink 1s linear infinite;
   animation: blink 1s linear infinite;
-}
-
-body {
-  -webkit-font-smoothing: none;
-  background: #0000ff url("../img/microfab.gif") top left;
 }
 
 .navbar {
